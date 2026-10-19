@@ -127,3 +127,6 @@ backend/uploads/*
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Local editor settings
+.vscode/
